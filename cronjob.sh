@@ -10,6 +10,7 @@ $(history) >> "$file"
 
 echo "" >> "$file"
 
+#commiting and pushing changes
 git add .
-git commit -m "This is automatic commit without cronjob at - $(date)"
+git commit -m "This is a automatic commit without cronjob at - $(date)"
 git push origin main
