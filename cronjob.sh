@@ -11,6 +11,7 @@ $(history) >> "$file"
 echo "" >> "$file"
 
 #commiting and pushing changes
+cd /home/trayambrathore/Cronjob
 git add .
-git commit -m "This is a automatic commit without cronjob at - $(date)"
+git commit -m "This is a automatic commit with cronjob at - $(date)"
 git push origin main

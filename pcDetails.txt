@@ -61,3 +61,183 @@ Mem:            7812         522        6867           3         591        7289
 Swap:           2048           0        2048
 Command History: 
 
+_________________Tue Aug 12 17:30:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         527        6856           3         598        7285
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:35:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         522        6856           3         602        7289
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:37:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         524        6852           3         604        7287
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:38:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         525        6851           3         605        7287
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:39:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         524        6851           3         606        7287
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:40:01 IST 2025_________________
+CPU:
+%Cpu(s):  1.2 us,  0.0 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         523        6851           3         606        7288
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:41:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         528        6845           3         607        7283
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:42:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         528        6844           3         608        7283
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:43:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         526        6846           3         609        7286
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:44:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         525        6845           3         610        7286
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:45:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         527        6843           3         611        7284
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:46:01 IST 2025_________________
+CPU:
+%Cpu(s):  1.2 us,  0.0 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         520        6849           3         611        7291
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:47:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         520        6848           3         612        7291
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:48:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         526        6841           3         613        7285
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:49:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         527        6840           3         614        7284
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:50:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         532        6833           3         615        7279
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:51:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         524        6841           3         616        7288
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:52:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         525        6839           3         617        7287
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:53:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.2 sy,  0.0 ni, 98.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         521        6842           3         617        7290
+Swap:           2048           0        2048
+Command History: 
+
+_________________Tue Aug 12 17:54:01 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         523        6839           3         618        7288
+Swap:           2048           0        2048
+Command History: 
+
