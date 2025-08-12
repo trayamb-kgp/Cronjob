@@ -9,3 +9,7 @@ echo "Command History: " >> "$file"
 $(history) >> "$file"
 
 echo "" >> "$file"
+
+git add .
+git commit -m "This is automatic commit without cronjob at - $(date)"
+git push origin main
