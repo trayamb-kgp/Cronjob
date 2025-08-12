@@ -1,0 +1,9 @@
+_________________Tue Aug 12 16:18:59 IST 2025_________________
+CPU:
+%Cpu(s):  1.2 us,  3.6 sy,  0.0 ni, 89.2 id,  4.8 wa,  0.0 hi,  1.2 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         521        6627           3         836        7290
+Swap:           2048           0        2048
+Command History: 
+
