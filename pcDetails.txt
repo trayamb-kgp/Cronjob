@@ -25,3 +25,12 @@ Mem:            7812         519        7166           3         292        7292
 Swap:           2048           0        2048
 Command History: 
 
+_________________Tue Aug 12 16:43:30 IST 2025_________________
+CPU:
+%Cpu(s):  0.0 us,  1.1 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+RAM: 
+               total        used        free      shared  buff/cache   available
+Mem:            7812         522        6979           3         478        7289
+Swap:           2048           0        2048
+Command History: 
+
